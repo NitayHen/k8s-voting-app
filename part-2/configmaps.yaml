@@ -6,7 +6,6 @@ metadata:
 data:
   OPTION_A: "Pizza"
   OPTION_B: "Sushi"
-  # use FQDN now
   REDIS_HOST: "redis.voting-app.svc.cluster.local"
 ---
 apiVersion: v1
